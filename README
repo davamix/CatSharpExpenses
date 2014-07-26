@@ -1,0 +1,7 @@
+Basic manager for incomes and expenses
+
+WPF
+C#
+MongoDB
+
+- Change the connection string in ./ExpensesFramework/ExpensesFramework.dll.config
